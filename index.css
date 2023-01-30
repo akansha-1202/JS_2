@@ -1,0 +1,26 @@
+body{
+    margin:40px;
+    font-size:larger;
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:brown;
+}
+span{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:brown;
+}
+.span1{
+     font-weight: bold;
+    text-decoration:none;
+    color:black;
+}
+pre{
+    color:white;
+    margin-left:100px;
+    font-weight: bold;
+}
